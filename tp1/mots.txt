@@ -1,0 +1,10 @@
+python
+réseau
+routeur
+protocole
+serveur
+ordinateur
+algorithme
+variable
+fonction
+éléphant
